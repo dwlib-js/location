@@ -1,6 +1,6 @@
 {
   "name": "@dwlib/location",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Location API",
   "main": "lib/index.js",
   "imports": {
